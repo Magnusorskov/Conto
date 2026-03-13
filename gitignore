@@ -1,0 +1,26 @@
+# Environment & secrets
+.env
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Android Studio
+local.properties
+
+# Kotlin
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
