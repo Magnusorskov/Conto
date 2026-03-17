@@ -14,14 +14,19 @@
 
 | Date | Hours | Tag | Ticket | What I did |
 |------|-------|-----|--------|------------|
+| Mar 13 | 1.7 | [learn] | L1 | Completed JetBrains Kotlin + Spring Boot tutorial |
+| Mar 13 | 0.25 | [learn] | L3 | Installed PostGres |
+| Mar 16 | 1.35 | [learn] | L2 | Made a throwaway REST API connected with PostGres |
+| Mar 16 | 0.9 | [learn] | L4 | Installed Android Studio and emulated on my phone |
+| Mar 16 | 0.5 | [learn] | L5 | Started working on ERD diagram, not finished |
 | | | | | |
 
 **Sprint 0 Summary**
 
 | Metric | Value |
 |--------|-------|
-| Total hours | |
-| Points completed | / 8 |
+| Total hours | 1.7 |
+| Points completed | 2 / 8 |
 | Hours by category | learn: , backend: , android: , devops: , debug: , docs: |
 | Biggest time sink | |
 | Key takeaway | |
